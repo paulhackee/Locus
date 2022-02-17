@@ -1,0 +1,27 @@
+// основные стили
+@import "_main";
+
+// миксины
+//@import "_mixins";
+// переменные
+//@import "_vars";
+
+// шрифт
+@import "fonts";
+
+// готовые шаблоны
+//@import "_templates";
+
+// шапка
+@import "_header";
+
+// блоки
+@import "_intro";
+
+@import "_works";
+
+@import "_projects";
+
+@import "_testimonial";
+
+@import "_contacts";
